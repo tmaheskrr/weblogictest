@@ -4,7 +4,7 @@
 <h3>Simple Calculator</h3>
 <br/>
 <style>
-#calc{width:300px;height:250px;}
+#calc{width:300px;height:250px;} 
 #btn{width:100%;height:40px;font-size:20px;}
 </style>
 <form Name="calc">
